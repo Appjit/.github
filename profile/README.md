@@ -1,5 +1,8 @@
 ## Hi there 👋
 Good!
+
+## It's start of Appjit🤘
+잘해봅시다!
 <!--
 
 **Here are some ideas to get you started:**
